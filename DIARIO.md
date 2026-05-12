@@ -1,4 +1,4 @@
-Tarea 1:
+## Tarea 1:
 - ¿Qué es un fork? 
    Un fork es una copia personal de un repo de otra persona que se guarda en tu propia cuenta de GitHub en modo "online". Permite experimentar, realizar cambios y proponer mejoras libremente sin afectar el proyecto original.
 - ¿Para qué sirve "upstream"?
@@ -6,4 +6,4 @@ Tarea 1:
 ![captura 1](capturas/captura1.png)
 ![captura 2](capturas/captura2.png)
 
-Tarea 2:
+## Tarea 2:
