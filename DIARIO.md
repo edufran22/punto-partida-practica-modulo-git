@@ -41,5 +41,10 @@ El criterio que he utilizado ha sido conservar el código que tenía, porque sup
 ![captura 6](capturas/captura6.png)
 ![captura 7](capturas/captura7.png) 
   
+## tarea 6:
 
+Lo que me ha resultado mas dificil ha sido trabajar con varias ramas a la vez, muchas veces olvidaba en local sobre que rama estaba trabajando y fue un poco lioso al principio, pero luego no me ha parecido complicado. Después de haber realizado la práctica tiene mas sentido para mí la importancia de un software de control de versiones para poder trabajar en equipo y que no haya conflictos y sea todo más fluido a la hora de desarrollar cualquier aplicación.
+
+### Capturas obligatorias
+![captura 8](capturas/captura8.png)
 
