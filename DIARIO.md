@@ -22,8 +22,7 @@
 ## Tarea 4:
 - **¿Qué revisaste en la pestaña Files changed y por qué es útil hacerlo antes de mergear?**
    La pestaña Files changed es, esencialmente, el qué se ha añadido o borrado antes de que tu código pase a formar parte del proyecto, es decir, la diferencia entre lo que había y lo que he puesto. Se marca en verde lo que se añade y en rojo lo que se borra. Y es útil hacerlo antes de mergear porque un pequeño error en una rama feature es fácil de arreglar. Si ese error llega a main, puede romper la aplicación para todos los usuarios. Revisar en el Pull Request es tu última red de seguridad antes de la fusión con el código principal.
-   ### Capturas obligatorias
-![captura 4](capturas/captura4.png) 
+
 
   
 
