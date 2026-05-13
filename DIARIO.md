@@ -17,7 +17,10 @@
 - ¿Qué es un conflicto en Git?
   Un conflicto en Git es básicamente cuando se producen dos cambios que chocan frontalmente y Git no tiene forma de saber cuál es el "correcto", y ahí es el programador o los programadores los que deciden cual es el cambio correcto, no lo hace Git de manera automática.
 - ¿Por qué se produce en la práctica de laboratorio?
-  Porque se ha modificado a la vez, en dos rammas distintas, la misma línea de código, la "descripción" de la opción 2 de la app.
+  Porque se ha modificado a la vez, en dos ramas distintas, la misma línea de código, la "description" de la opción 3 de la app.
 
 ## Tarea 4:
+- ¿Qué revisaste en la pestaña Files changed y por qué es útil hacerlo antes de mergear?
+   La pestaña Files changed es, esencialmente, el qué se ha añadido o borrado antes de que tu código pase a formar parte del proyecto, es decir, la diferencia entre lo que había y lo que he puesto. Se marca en verde lo que se añade y en rojo lo que se borra. Y es útil hacerlo antes de mergear porque un pequeño error en una rama feature es fácil de arreglar. Si ese error llega a main, puede romper la aplicación para todos los usuarios. Revisar en el Pull Request es tu última red de seguridad antes de la fusión con el código principal.
+  ![captura 4](capturas/captura4.png) 
 
