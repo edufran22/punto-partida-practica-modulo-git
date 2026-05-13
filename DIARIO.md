@@ -27,9 +27,10 @@
 
 ## tarea 5:
 - **¿Qué significan los marcadores <<<<<<<, ======= y >>>>>>> y qué criterio usaste para decidir qué versión conservar?**
+
 `<<<<<<<` HEAD: Marca el inicio de lo que cambia del código que tengo en mi máquina local.
 
-`=======:` Es la frontera. Todo lo que esté por encima es tuyo; todo lo que esté por debajo es lo "nuevo" que viene de fuera.
+`=======`: Es la frontera. Todo lo que esté por encima es tuyo; todo lo que esté por debajo es lo "nuevo" que viene de fuera.
 
 `>>>>>>`origin/dev: Marca el final del conflicto y te dice de qué rama vienen esos cambios.
 
