@@ -8,3 +8,7 @@
 ![captura 2](capturas/captura2.png)
 
 ## Tarea 2:
+- ¿Por qué la rama parte de dev y no de main?
+   La razón principal por la que no partes directamente de main es para proteger la estabilidad del proyecto, en main solo debe haber versiones del código que ya han sido probadas y aprobadas. "Dev" es la rama donde se van juntando todas las carácterísticas nuevas que el equipo está desarrollando y si algo sale mal mientras juntas dos carácterísticas o funciones nuevas, se rompe dev, pero tu versión de producción (main) sigue intacta y funcionando para los clientes.
+ ### Capturas obligatorias
+![captura 3](capturas/captura3.png) 
