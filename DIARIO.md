@@ -24,6 +24,21 @@
    La pestaña Files changed es, esencialmente, el qué se ha añadido o borrado antes de que tu código pase a formar parte del proyecto, es decir, la diferencia entre lo que había y lo que he puesto. Se marca en verde lo que se añade y en rojo lo que se borra. Y es útil hacerlo antes de mergear porque un pequeño error en una rama feature es fácil de arreglar. Si ese error llega a main, puede romper la aplicación para todos los usuarios. Revisar en el Pull Request es tu última red de seguridad antes de la fusión con el código principal.
 ### Capturas obligatorias
 ![captura 4](capturas/captura4b.png) 
+
+## tarea 5:
+- **¿Qué significan los marcadores <<<<<<<, ======= y >>>>>>> y qué criterio usaste para decidir qué versión conservar?**
+<<<<<<< HEAD: Marca el inicio de lo que cambia del código que tengo en mi máquina local.
+
+=======: Es la frontera. Todo lo que esté por encima es tuyo; todo lo que esté por debajo es lo "nuevo" que viene de fuera.
+
+>>>>>> origin/dev: Marca el final del conflicto y te dice de qué rama vienen esos cambios.
+
+El criterio que he utilizado ha sido conservar el código que tenía, porque supuestamente la rama era para implementar el elemento 6, y me venía modificado la "description" del elemento 3, por lo que no tiene sentido, por eso he decidido quedarme con mi versión.
+
+### Capturas obligatorias
+![captura 5](capturas/captura5.png)
+![captura 6](capturas/captura6.png)
+![captura 7](capturas/captura7.png) 
   
 
 
