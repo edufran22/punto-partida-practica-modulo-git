@@ -24,7 +24,7 @@ const OPTIONS: Option[] = [
   },
   {
     id: 3,
-    title: "Flujo profesional",
+    title: "Flujo ",
     description: "Forks",
     message:
       "Un fork es una copia de un repositorio en tu cuenta. Puedes proponer cambios al original mediante un Pull Request.",
